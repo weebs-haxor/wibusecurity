@@ -1,0 +1,32 @@
+a{
+    color: #6CC6CB;
+    padding: 6px;
+    text-decoration: none;
+    font-family: monospace;
+    border: 1px solid #6CC6CB;
+}
+body{
+    color: #6CC6CB;
+    text-align: center;
+    font-family: monospace;
+    background-color: black;
+}
+textarea{
+    color: #6CC6CB;
+    font-family: monospace;
+    background-color: black;
+    border: 2px solid #6CC6CB;
+}
+.term{
+    width: 330px;
+    color: #6CC6CB;
+    font-family: monospace;
+    background-color: black;
+    border: 2px solid #6CC6CB;
+}
+.tern{
+    color: #6CC6CB;
+    font-family: monospace;
+    background-color: black;
+    border: 2px solid #6CC6CB;
+}
